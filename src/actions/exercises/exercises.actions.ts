@@ -26,4 +26,42 @@ const getAllExercicesWithBodyPart = createAsyncThunk(
   },
 );
 
-export {getAllExercices, getAllExercicesWithBodyPart}
+const getExerciceById = createAsyncThunk(
+    // action type string
+    '/exercise/id',
+    // callback function
+    async (id:string) => {
+        return apiResquest<Exercises>({
+            path: `/exercise/${id}`,
+            method: 'get',
+        });
+    },
+  );
+
+  const getEquipment = createAsyncThunk(
+    // action type string
+    '/equipment',
+    // callback function
+    async (equipment:string) => {
+        return apiResquest<Exercises[]>({
+            path: `/equipment/${equipment}`,
+            method: 'get',
+        });
+    },
+  );
+
+  const getTarget = createAsyncThunk(
+    // action type string
+    '/target',
+    // callback function
+    async (target:string) => {
+        return apiResquest<Exercises[]>({
+            path: `/target/${target}`,
+            method: 'get',
+        });
+    },
+  );
+
+
+
+export {getAllExercices, getAllExercicesWithBodyPart,getExerciceById, getEquipment,getTarget}
