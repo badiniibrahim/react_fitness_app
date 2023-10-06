@@ -1,0 +1,23 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "files.trimTrailingWhitespace": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "json.maxItemsComputed": 50000,
+    "json.format.enable": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "eslint.runtime": ""
+}
+
