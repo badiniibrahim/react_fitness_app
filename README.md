@@ -12,6 +12,12 @@ This is a repository for react fitness app using React, material ui, RapidApi, T
 ![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/react_fitness_app)
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/react_fitness_app)
 ![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/react_fitness_app)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style&logo=JavaScript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style&logo=React&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style&logo=TypeScript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
+<img src="https://img.shields.io/github/license/Yuberley/ChatGPT-App-React-Native-TypeScript?style&color=5D6D7E" alt="GitHub license" />
+
 
 # App link
 https://react-fitness-1t48s4c4p-badiniibrahims-projects.vercel.app/
