@@ -8,10 +8,10 @@ This is a repository for react fitness app using React, material ui, RapidApi, T
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
 ## About this Repository
-![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/flutter-app-crypto-dash)
-![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/flutter-app-crypto-dash)
-![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/flutter-app-crypto-dash)
-![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/flutter-app-crypto-dash)
+![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/react_fitness_app)
+![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/react_fitness_app)
+![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/react_fitness_app)
+![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/react_fitness_app)
 
 # App link
 https://react-fitness-1t48s4c4p-badiniibrahims-projects.vercel.app/
