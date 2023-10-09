@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+## Building a React app with material ui, RapidApi, TypeScript and redux toolkit 
+This is a repository for react fitness app using React, material ui, RapidApi, TypeScript and redux toolkit 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technologies
+- React.js
+- Beautiful layouts with material ui
+- Create reusable components
+- State management with redux toolkit
+- RapidApi
 
-## Available Scripts
+  
+## 🔐 Setup .env file
+REACT_APP_URL
 
-In the project directory, you can run:
+CLERK_SECRET_KEY
 
-### `npm start`
+REACT_APP_RAPIDE_KEY
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+NEXT_PUBLIC_CLERK_SIGN_UP_URL
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+REACT_APP_RAPIDE_HOST
 
-### `npm test`
+## Screenshot
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### :running: Run Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  git clone https://github.com/badiniibrahim/react_fitness_app.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install dependencies
+```bash
+  yarn install
+```
 
-### `npm run eject`
+## Getting Started
+```bash
+  yarn start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Learn More
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To learn more about Next.js, take a look at the following resources:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Learn More
+<!-- Deployment -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### :triangular_flag_on_post: Deployment
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To deploy this project run
+
+##### Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
